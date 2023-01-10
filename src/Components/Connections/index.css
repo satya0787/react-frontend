@@ -1,0 +1,19 @@
+.account-style {
+  border: transparent;
+  padding: 5px;
+  background-color: transparent;
+  align-items: center;
+}
+
+.sub {
+  list-style: none;
+}
+
+.users-bg {
+  border: 1px solid black;
+}
+
+.img {
+  height: 40px;
+  width: 40px;
+}
